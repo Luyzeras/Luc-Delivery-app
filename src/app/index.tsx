@@ -27,7 +27,7 @@ export default function Index() {
  <TrendingFoods/>
 
  <Section
- name="Famosos no DevFood"
+ name="Famosos e favoritos Food"
  label="veja todas"
  action={()=> console.log('Clicou em famosos')}
  size='text-xl'/>
